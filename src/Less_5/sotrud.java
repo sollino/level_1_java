@@ -1,5 +1,6 @@
 package Less_5;
 
+
 public class sotrud {
         public static  void main (String[]args){
 
